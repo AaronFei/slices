@@ -4,4 +4,5 @@ import "fmt"
 
 func Test() {
 	fmt.Println("slices test")
+	fmt.Println("Verify")
 }
